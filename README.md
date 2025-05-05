@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/qpd-v-mcp-deepwebresearch-badge.png)](https://mseep.ai/app/qpd-v-mcp-deepwebresearch)
+
 # MCP Deep Web Research Server (v0.3.0)
 
 [![Node.js Version](https://img.shields.io/badge/node-%3E%3D18-brightgreen.svg)](https://nodejs.org/)
